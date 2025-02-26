@@ -1,2 +1,44 @@
+body {
+    font-family: "Arial", sans-serif;
+    margin: 0px;
+    padding: 0px;
+    background-image: url(https://assets.onecompiler.app/436hfj42m/4396fd7vm/web%20development%20projec.jpg);
+    background-repeat: no-repeat;
+    background-size: cover; 
+}
+
+header {
+    font-family: 'Dancing Script', cursive;
+    background-color: #1471b1; 
+    text-align: center; 
+    padding: 20px;
+    color: black;
+    margin: 30px;
+    border-radius: 50px;
+    opacity: 0.6;
+}
+
+main {
+    padding: 3rem;
+}
+
+.section-one, .section-two {
+    background-color: #49c38a; 
+    margin: 20px; 
+    padding: 15px;
+    border-radius: 30px;
+    opacity: 0.6;
+}
+
+footer {
+    background-color: #1471b1;
+    color: white;
+    text-align: center;
+    margin: 30px;
+    padding: 15px;
+    border-radius: 30px;
+    opacity: 0.6;
+}
+
 
 
